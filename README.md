@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SovikMandal/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SovikMandal/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/SovikMandal/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0219-contains-duplicate-ii](https://github.com/SovikMandal/LeetCode/tree/master/0219-contains-duplicate-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -29,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/SovikMandal/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/SovikMandal/LeetCode/tree/master/0219-contains-duplicate-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/SovikMandal/LeetCode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
