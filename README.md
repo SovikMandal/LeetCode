@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/SovikMandal/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0219-contains-duplicate-ii](https://github.com/SovikMandal/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/SovikMandal/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0496-next-greater-element-i](https://github.com/SovikMandal/LeetCode/tree/master/0496-next-greater-element-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SovikMandal/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/SovikMandal/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0496-next-greater-element-i](https://github.com/SovikMandal/LeetCode/tree/master/0496-next-greater-element-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SovikMandal/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sliding Window
 |  |
@@ -68,8 +70,13 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/SovikMandal/LeetCode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/SovikMandal/LeetCode/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/SovikMandal/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/SovikMandal/LeetCode/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/SovikMandal/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
