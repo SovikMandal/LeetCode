@@ -19,10 +19,9 @@ public:
         while(!st.empty()) {
             ans += st.top();
             st.pop();
-            if(!ans.empty()) ans += ' ';
+            if(!st.empty()) ans += ' ';
         }
-
-        ans.pop_back();
+        
         return ans;
     }
 };
