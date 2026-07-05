@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/SovikMandal/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [3620-network-recovery-pathways](https://github.com/SovikMandal/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
 |  |
@@ -161,4 +162,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/SovikMandal/LeetCode/tree/master/0203-remove-linked-list-elements) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/SovikMandal/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+## Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/SovikMandal/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/SovikMandal/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
