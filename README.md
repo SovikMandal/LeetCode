@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0205-isomorphic-strings](https://github.com/SovikMandal/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/SovikMandal/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SovikMandal/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/SovikMandal/LeetCode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/SovikMandal/LeetCode/tree/master/0496-next-greater-element-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SovikMandal/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sliding Window
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0151-reverse-words-in-a-string](https://github.com/SovikMandal/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/SovikMandal/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/SovikMandal/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/SovikMandal/LeetCode/tree/master/0242-valid-anagram) |
 | [1021-remove-outermost-parentheses](https://github.com/SovikMandal/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
 |  |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0075-sort-colors](https://github.com/SovikMandal/LeetCode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/SovikMandal/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/SovikMandal/LeetCode/tree/master/0242-valid-anagram) |
 ## Depth-First Search
 |  |
 | ------- |
