@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SovikMandal/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SovikMandal/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/SovikMandal/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0217-contains-duplicate](https://github.com/SovikMandal/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SovikMandal/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/SovikMandal/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/SovikMandal/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/SovikMandal/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/SovikMandal/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SovikMandal/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/SovikMandal/LeetCode/tree/master/0496-next-greater-element-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SovikMandal/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/SovikMandal/LeetCode/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/SovikMandal/LeetCode/tree/master/0217-contains-duplicate) |
 ## Depth-First Search
 |  |
 | ------- |
