@@ -146,4 +146,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/SovikMandal/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/SovikMandal/LeetCode/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/SovikMandal/LeetCode/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
