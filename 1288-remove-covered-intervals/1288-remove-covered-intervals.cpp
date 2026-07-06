@@ -7,12 +7,12 @@ public:
             return a[0] < b[0];
         });
 
-        int count = 0, maxEnd = 0;
+        int count = 1, maxEnd = intervals[0][1];
 
-        for (auto& interval : intervals) {
-            if (interval[1] > maxEnd) {
+        for (int i = 1; i < intervals.size(); i++) {
+            if(intervals[i][1] > maxEnd) {
                 count++;
-                maxEnd = interval[1];
+                maxEnd = intervals[i][1];
             }
         }
 
