@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0228-summary-ranges](https://github.com/SovikMandal/LeetCode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/SovikMandal/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/SovikMandal/LeetCode/tree/master/0496-next-greater-element-i) |
+| [1288-remove-covered-intervals](https://github.com/SovikMandal/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/SovikMandal/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SovikMandal/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3620-network-recovery-pathways](https://github.com/SovikMandal/LeetCode/tree/master/3620-network-recovery-pathways) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/SovikMandal/LeetCode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/SovikMandal/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SovikMandal/LeetCode/tree/master/0242-valid-anagram) |
+| [1288-remove-covered-intervals](https://github.com/SovikMandal/LeetCode/tree/master/1288-remove-covered-intervals) |
 ## Depth-First Search
 |  |
 | ------- |
