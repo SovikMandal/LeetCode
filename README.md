@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1301-number-of-paths-with-max-score](https://github.com/SovikMandal/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SovikMandal/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SovikMandal/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/SovikMandal/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/SovikMandal/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SovikMandal/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SovikMandal/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/SovikMandal/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [1301-number-of-paths-with-max-score](https://github.com/SovikMandal/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/SovikMandal/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/SovikMandal/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/SovikMandal/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/SovikMandal/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SovikMandal/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/SovikMandal/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0151-reverse-words-in-a-string](https://github.com/SovikMandal/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/SovikMandal/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SovikMandal/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/SovikMandal/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -134,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/SovikMandal/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SovikMandal/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/SovikMandal/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/SovikMandal/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
 |  |
@@ -141,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SovikMandal/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/SovikMandal/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SovikMandal/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/SovikMandal/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/SovikMandal/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -161,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/SovikMandal/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SovikMandal/LeetCode/tree/master/0242-valid-anagram) |
 | [1288-remove-covered-intervals](https://github.com/SovikMandal/LeetCode/tree/master/1288-remove-covered-intervals) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/SovikMandal/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -202,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/SovikMandal/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/SovikMandal/LeetCode/tree/master/0231-power-of-two) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/SovikMandal/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Tree
 |  |
 | ------- |
