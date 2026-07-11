@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SovikMandal/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/SovikMandal/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SovikMandal/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/SovikMandal/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -166,15 +167,18 @@ A collection of LeetCode questions to ace the coding interview!
 | [0226-invert-binary-tree](https://github.com/SovikMandal/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/SovikMandal/LeetCode/tree/master/0257-binary-tree-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SovikMandal/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/SovikMandal/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/SovikMandal/LeetCode/tree/master/0226-invert-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SovikMandal/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/SovikMandal/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SovikMandal/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/SovikMandal/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SovikMandal/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Matrix
 |  |
