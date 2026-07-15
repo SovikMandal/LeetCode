@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0205-isomorphic-strings](https://github.com/SovikMandal/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SovikMandal/LeetCode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/SovikMandal/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0394-decode-string](https://github.com/SovikMandal/LeetCode/tree/master/0394-decode-string) |
 | [1021-remove-outermost-parentheses](https://github.com/SovikMandal/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SovikMandal/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0155-min-stack](https://github.com/SovikMandal/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/SovikMandal/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/SovikMandal/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/SovikMandal/LeetCode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/SovikMandal/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/SovikMandal/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Design
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0206-reverse-linked-list](https://github.com/SovikMandal/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/SovikMandal/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/SovikMandal/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/SovikMandal/LeetCode/tree/master/0394-decode-string) |
 ## Bit Manipulation
 |  |
 | ------- |
