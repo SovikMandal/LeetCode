@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0394-decode-string](https://github.com/SovikMandal/LeetCode/tree/master/0394-decode-string) |
 | [1021-remove-outermost-parentheses](https://github.com/SovikMandal/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SovikMandal/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/SovikMandal/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SovikMandal/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
 |  |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/SovikMandal/LeetCode/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/SovikMandal/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Number Theory
 |  |
 | ------- |
