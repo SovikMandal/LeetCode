@@ -1,19 +1,19 @@
 class Solution {
 public:
-    void sortColors(vector<int>& arr) {
+    void sortColors(vector<int>& nums) {
         int left = 0;
         int curr = 0;
-        int right = arr.size() - 1;
+        int right = nums.size() - 1;
 
         while(curr <= right) {
-            if(arr[curr] == 0) {
-                swap(arr[curr], arr[left]);
+            if(nums[curr] == 0) {
+                swap(nums[curr], nums[left]);
                 left++;
                 curr++;
             }
 
-            else if(arr[curr] == 2) {
-                swap(arr[curr], arr[right]);
+            else if(nums[curr] == 2) {
+                swap(nums[curr], nums[right]);
                 right--;
             }
 
