@@ -4,15 +4,14 @@ public:
         int n = s.length();
         int maxLength = 0;
         int start = 0;
-        unordered_map<char, int> freq;
+        vector<int> freq(128, -1);
 
         for(int end = 0; end < n; end++) {
-            freq[s[end]]++;
-            while(freq[s[end]] > 1) {
-                freq[s[start]]--;
-                start++;
+            if(freq[s[end]] >= start) {
+                start = freq[s[end]] + 1;
             }
 
+            freq[s[end]] = end;
             maxLength = max(maxLength, end - start + 1);
         }
 
