@@ -1,18 +1,23 @@
 class Solution {
 public:
     vector<int> singleNumber(vector<int>& nums) {
-        vector<int> ans;
-        unordered_map<int,int> freq;
+        long long xor_all = 0;
         for(int i = 0; i < nums.size(); i++) {
-            freq[nums[i]]++;
+            xor_all ^= nums[i];
         }
 
-        for(auto num : freq) {
-            if(num.second == 1) {
-                ans.push_back(num.first);
+        long long mask = xor_all & -xor_all;
+        int first_unique = 0;
+        int second_unique = 0;
+
+        for(int num : nums) {
+            if(num & mask) {
+                first_unique ^= num;
+            } else {
+                second_unique ^= num;
             }
         }
 
-        return ans;
+        return {first_unique, second_unique};
     }
 };
