@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SovikMandal/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SovikMandal/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3620-network-recovery-pathways](https://github.com/SovikMandal/LeetCode/tree/master/3620-network-recovery-pathways) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/SovikMandal/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SovikMandal/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/SovikMandal/LeetCode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SovikMandal/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1140-stone-game-ii](https://github.com/SovikMandal/LeetCode/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/SovikMandal/LeetCode/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SovikMandal/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/SovikMandal/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/SovikMandal/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SovikMandal/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SovikMandal/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0053-maximum-subarray](https://github.com/SovikMandal/LeetCode/tree/master/0053-maximum-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/SovikMandal/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/SovikMandal/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SovikMandal/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1260-shift-2d-grid](https://github.com/SovikMandal/LeetCode/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SovikMandal/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SovikMandal/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/SovikMandal/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SovikMandal/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
