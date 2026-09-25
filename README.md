@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0438-find-all-anagrams-in-a-string](https://github.com/SovikMandal/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/SovikMandal/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/SovikMandal/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [1096-brace-expansion-ii](https://github.com/SovikMandal/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/SovikMandal/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SovikMandal/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SovikMandal/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0940-distinct-subsequences-ii](https://github.com/SovikMandal/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/SovikMandal/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SovikMandal/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/SovikMandal/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SovikMandal/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/SovikMandal/LeetCode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SovikMandal/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0844-backspace-string-compare](https://github.com/SovikMandal/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/SovikMandal/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SovikMandal/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/SovikMandal/LeetCode/tree/master/1096-brace-expansion-ii) |
 ## Design
 |  |
 | ------- |
@@ -394,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/SovikMandal/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/SovikMandal/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/SovikMandal/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1096-brace-expansion-ii](https://github.com/SovikMandal/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/SovikMandal/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/SovikMandal/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SovikMandal/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -419,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/SovikMandal/LeetCode/tree/master/0226-invert-binary-tree) |
+| [1096-brace-expansion-ii](https://github.com/SovikMandal/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SovikMandal/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/SovikMandal/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/SovikMandal/LeetCode/tree/master/3310-remove-methods-from-project) |
@@ -488,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/SovikMandal/LeetCode/tree/master/0257-binary-tree-paths) |
+| [1096-brace-expansion-ii](https://github.com/SovikMandal/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SovikMandal/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Enumeration
 |  |
