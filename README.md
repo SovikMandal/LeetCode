@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/SovikMandal/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/SovikMandal/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/SovikMandal/LeetCode/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/SovikMandal/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/SovikMandal/LeetCode/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/SovikMandal/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/SovikMandal/LeetCode/tree/master/1140-stone-game-ii) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SovikMandal/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SovikMandal/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/SovikMandal/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SovikMandal/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SovikMandal/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/SovikMandal/LeetCode/tree/master/1927-sum-game) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0394-decode-string](https://github.com/SovikMandal/LeetCode/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/SovikMandal/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SovikMandal/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0678-valid-parenthesis-string](https://github.com/SovikMandal/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/SovikMandal/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0940-distinct-subsequences-ii](https://github.com/SovikMandal/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/SovikMandal/LeetCode/tree/master/1021-remove-outermost-parentheses) |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0394-decode-string](https://github.com/SovikMandal/LeetCode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/SovikMandal/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SovikMandal/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/SovikMandal/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/SovikMandal/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/SovikMandal/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SovikMandal/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -612,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/SovikMandal/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SovikMandal/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/SovikMandal/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SovikMandal/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SovikMandal/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
