@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SovikMandal/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/SovikMandal/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/SovikMandal/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SovikMandal/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SovikMandal/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/SovikMandal/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/SovikMandal/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SovikMandal/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/SovikMandal/LeetCode/tree/master/0125-valid-palindrome) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SovikMandal/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/SovikMandal/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/SovikMandal/LeetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SovikMandal/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -642,4 +645,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SovikMandal/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SovikMandal/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SovikMandal/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/SovikMandal/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
