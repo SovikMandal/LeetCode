@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0016-3sum-closest](https://github.com/SovikMandal/LeetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SovikMandal/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/SovikMandal/LeetCode/tree/master/0031-next-permutation) |
+| [0049-group-anagrams](https://github.com/SovikMandal/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/SovikMandal/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/SovikMandal/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SovikMandal/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/SovikMandal/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SovikMandal/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/SovikMandal/LeetCode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/SovikMandal/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SovikMandal/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/SovikMandal/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/SovikMandal/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/SovikMandal/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SovikMandal/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/SovikMandal/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/SovikMandal/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/SovikMandal/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/SovikMandal/LeetCode/tree/master/0171-excel-sheet-column-number) |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0015-3sum](https://github.com/SovikMandal/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/SovikMandal/LeetCode/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/SovikMandal/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/SovikMandal/LeetCode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/SovikMandal/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SovikMandal/LeetCode/tree/master/0242-valid-anagram) |
