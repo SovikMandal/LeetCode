@@ -1,23 +1,22 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        if (s.length() != t.length()) {
-            return false;
+        if(s.length() != t.length()) return false;
+        unordered_map<char, int> freq;
+        for(char ch : s) {
+            freq[ch]++;
         }
 
-        unordered_map<char, int> counter;
-
-        for (char ch : s) {
-            counter[ch] = counter[ch] + 1;
+        for(char ch : t) {
+            freq[ch]--;
         }
 
-        for (char ch : t) {
-            if (counter.find(ch) == counter.end() || counter[ch] == 0) {
+        for(auto [key, value] : freq) {
+            if(value != 0) {
                 return false;
             }
-            counter[ch] = counter[ch] - 1;
         }
 
-        return true; 
+        return true;
     }
 };
