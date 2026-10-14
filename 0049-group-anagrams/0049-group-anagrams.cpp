@@ -4,14 +4,14 @@ public:
         int n = strs.size();
         vector<vector<string>> res;
         unordered_map<string, vector<string>> mpp;
-        for(int i = 0; i < n; i++) {
-            string temp = strs[i];
-            sort(temp.begin(), temp.end());
-            mpp[temp].push_back(strs[i]);
+        for(string s : strs) {
+            string key = s;
+            sort(key.begin(), key.end());
+            mpp[key].push_back(s);
         }
 
-        for(auto it : mpp) {
-            res.push_back(it.second);
+        for(auto [key, value] : mpp) {
+            res.push_back(value);
         }
 
         return res;
