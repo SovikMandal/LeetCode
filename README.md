@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0228-summary-ranges](https://github.com/SovikMandal/LeetCode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/SovikMandal/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/SovikMandal/LeetCode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/SovikMandal/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SovikMandal/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0486-predict-the-winner](https://github.com/SovikMandal/LeetCode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/SovikMandal/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/SovikMandal/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/SovikMandal/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/SovikMandal/LeetCode/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/SovikMandal/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SovikMandal/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/SovikMandal/LeetCode/tree/master/0836-rectangle-overlap) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/SovikMandal/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SovikMandal/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/SovikMandal/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/SovikMandal/LeetCode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/SovikMandal/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SovikMandal/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/SovikMandal/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -397,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SovikMandal/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/SovikMandal/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/SovikMandal/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/SovikMandal/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SovikMandal/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/SovikMandal/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/SovikMandal/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -443,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/SovikMandal/LeetCode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/SovikMandal/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SovikMandal/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/SovikMandal/LeetCode/tree/master/0268-missing-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SovikMandal/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SovikMandal/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/SovikMandal/LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -519,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0222-count-complete-tree-nodes](https://github.com/SovikMandal/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/SovikMandal/LeetCode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/SovikMandal/LeetCode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/SovikMandal/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SovikMandal/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SovikMandal/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SovikMandal/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
