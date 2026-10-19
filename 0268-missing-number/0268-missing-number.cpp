@@ -2,13 +2,20 @@ class Solution {
 public:
     int missingNumber(vector<int>& nums) {
         int n = nums.size();
-        int needed = (n * (n + 1))/2;
-        int actual = 0;
-        for(int i = 0; i < n; i++) {
-            actual += nums[i];
+        for(int i = 0; i <= n; i++) {
+            bool found = false;
+            for(int j = 0; j < n; j++) {
+                if(nums[j] == i) {
+                    found = true;
+                    break;
+                }
+            }
+
+            if(!found) {
+                return i;
+            } 
         }
 
-        int rem = needed - actual;
-        return rem;
+        return -1;
     }
 };
