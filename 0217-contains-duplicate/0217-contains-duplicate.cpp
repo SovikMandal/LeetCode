@@ -2,10 +2,12 @@ class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
         unordered_map<int, int> freq;
-        for(auto it : nums) {
-            freq[it]++;
+        for(int x : nums) {
+            freq[x]++;
+        }
 
-            if(freq[it] > 1) {
+        for(auto [key, value] : freq) {
+            if(value > 1) {
                 return true;
             }
         }
