@@ -1,8 +1,18 @@
 class Solution {
 private:
     string generate(string str) {
-        sort(str.begin(), str.end());
-        return str;
+        int arr[26] = {0};
+        for(char ch : str) {
+            arr[ch - 'a']++;
+        }
+
+        string newString = "";
+        for(int i = 0; i < 26; i++) {
+            int freq = arr[i];
+            if(freq > 0) newString += string(freq, i + 'a');
+        }
+
+        return newString;
     }
 
 public:
