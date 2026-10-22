@@ -4,10 +4,8 @@ public:
         unordered_map<int, int> freq;
         for(int x : nums) {
             freq[x]++;
-        }
 
-        for(auto [key, value] : freq) {
-            if(value > 1) {
+            if(freq[x] > 1) {
                 return true;
             }
         }
