@@ -21,9 +21,7 @@ public:
         vector<vector<string>> res;
         unordered_map<string, vector<string>> mp;
         for(string s : strs) {
-            string value = s;
-            string key = generate(value);
-            mp[key].push_back(value);
+            mp[generate(s)].push_back(s);
         }
 
         for(auto [key, val] : mp) {
