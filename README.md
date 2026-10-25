@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/SovikMandal/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1254-number-of-closed-islands](https://github.com/SovikMandal/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/SovikMandal/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1268-search-suggestions-system](https://github.com/SovikMandal/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/SovikMandal/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SovikMandal/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1301-number-of-paths-with-max-score](https://github.com/SovikMandal/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SovikMandal/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/SovikMandal/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SovikMandal/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1268-search-suggestions-system](https://github.com/SovikMandal/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SovikMandal/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SovikMandal/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SovikMandal/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/SovikMandal/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/SovikMandal/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/SovikMandal/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1268-search-suggestions-system](https://github.com/SovikMandal/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SovikMandal/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SovikMandal/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SovikMandal/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -459,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/SovikMandal/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [1268-search-suggestions-system](https://github.com/SovikMandal/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SovikMandal/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SovikMandal/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3620-network-recovery-pathways](https://github.com/SovikMandal/LeetCode/tree/master/3620-network-recovery-pathways) |
@@ -483,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0973-k-closest-points-to-origin](https://github.com/SovikMandal/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/SovikMandal/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/SovikMandal/LeetCode/tree/master/1096-brace-expansion-ii) |
+| [1268-search-suggestions-system](https://github.com/SovikMandal/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/SovikMandal/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/SovikMandal/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SovikMandal/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -741,4 +746,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SovikMandal/LeetCode/tree/master/0169-majority-element) |
+## Trie
+|  |
+| ------- |
+| [1268-search-suggestions-system](https://github.com/SovikMandal/LeetCode/tree/master/1268-search-suggestions-system) |
 <!---LeetCode Topics End-->
