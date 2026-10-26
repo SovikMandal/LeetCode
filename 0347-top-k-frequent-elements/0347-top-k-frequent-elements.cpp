@@ -7,20 +7,16 @@ public:
             freq[x]++;
         }
 
-        // here i apply minHeap 
-        priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> pq;
-        for(auto it : freq) {
-            int number = it.first;
-            int frequency = it.second;
-            pq.push({frequency, number});
-            if(pq.size() > k) pq.pop();
+        // here i apply maxHeap 
+        priority_queue<pair<int, int>> pq;
+        for(auto [key, val] : freq) {
+            pq.push({val, key});
         }
 
         vector<int> ans;
-        while(!pq.empty()) {
-            int value = pq.top().second;
+        for(int i = 0; i < k; i++) {
+            ans.push_back(pq.top().second);
             pq.pop();
-            ans.push_back(value);
         }
 
         return ans;
