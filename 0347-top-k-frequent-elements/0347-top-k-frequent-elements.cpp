@@ -7,6 +7,7 @@ public:
             freq[x]++;
         }
 
+        // here i apply minHeap 
         priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> pq;
         for(auto it : freq) {
             int number = it.first;
